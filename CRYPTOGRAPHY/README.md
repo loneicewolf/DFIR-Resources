@@ -8,8 +8,11 @@
 
 
 ### External Links
+- https://www.cryptool.org/en/
 - https://www.cryptol.net/
 - https://gchq.github.io/CyberChef/
+- https://cryptii.com/
+
 - https://www.embeddedsw.net/
   - https://www.embeddedsw.net/Cipher_Reference_Home.html
   - https://www.embeddedsw.net/libObfuscate_Cryptography_Home.html
@@ -17,6 +20,6 @@
   - https://www.embeddedsw.net/OpenPuff_Steganography_Home.html
   - https://www.embeddedsw.net/Randomness_Test_Home.html
 
-- https://cryptii.com/
-- https://www.cryptool.org/en/
 
+- https://tinycrypt.wordpress.com/
+- https://modexp.wordpress.com/
