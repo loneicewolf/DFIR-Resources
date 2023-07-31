@@ -10,6 +10,6 @@
 - https://secret.club/
 - https://kernelmode.info/forum/
 - https://godbolt.org 
-- 
-
+- https://reverseengineering.stackexchange.com
+- https://crypto.stackexchange.com/
 
