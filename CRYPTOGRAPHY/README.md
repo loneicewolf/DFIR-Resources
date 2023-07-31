@@ -23,3 +23,7 @@
 
 - https://tinycrypt.wordpress.com/
 - https://modexp.wordpress.com/
+
+- https://crypto.stackexchange.com/
+- 
+
