@@ -1,5 +1,7 @@
 # RESOURCES RELATED TO CRYPTOGRAPHY
 
+- [ ] todo: make bookmarks/links files, so it doesn't get all fuzzy.
+- [ ] todo: check for duplicates.
 
 ### Internal Links
 ⚠️ Note, some of them might be fuzzy/Still-in-dev.
@@ -8,6 +10,12 @@
 
 
 ### External Links
+
+- https://cryptocellar.org/
+- https://www.turing.org.uk/index.html
+- https://www.codesandciphers.org.uk/heritage/index.htm
+- https://daytoncodebreakers.org/
+- http://www.ellsbury.com/enigmabombe.htm
 - https://www.codesandciphers.org.uk/
 
 - https://www.cryptool.org/en/
