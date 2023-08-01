@@ -38,7 +38,7 @@ int main(int argc, char *argv[]){
 
 
 ### External Links
-- 
+- https://kernel.embedromix.ro/
 - 
 - 
 
