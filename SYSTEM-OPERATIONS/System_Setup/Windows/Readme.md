@@ -6,3 +6,10 @@ This will be guides and scripts on how to set up a Windows Environment for
 - Reverse Engineering
 
 ☢️ this stub is a todo for now ☢️
+
+### Requests by other Members:
+- https://samsclass.info/126/WI-TXWWC21.htm
+- 
+- 
+- 
+- 
