@@ -1,5 +1,8 @@
 # RESOURCES RELATED TO WINDOWS SETUP
-*for being a mawlare-honeypot, active-directory testing site, malware-target(for reverse engineering), and more*
 
-☢️ this is a todo for now. ☢️
+This will be guides and scripts on how to set up a Windows Environment for
+- Malware testing/target/honeypot/dev
+- Forensics/Exploitation/Backdooring, and counter(aka *anti*) measures of those methods.
+- Reverse Engineering
 
+☢️ this stub is a todo for now ☢️
