@@ -1,10 +1,9 @@
 # RESOURCES RELATED TO REVERSE SHELLS
 
-C Reverse Shells
-- [linux](https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597)
-- [windows](https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144)
 
+# C Reverse Shells
 
+## [linux revshell c src](https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597)
 ```c
 /*
  * -----set up listener-----
@@ -36,8 +35,10 @@ return 0;
 }
 ```
 
-- `windows C src`
 
+
+
+## [windows revshell c src](https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144)
 ```c
 /*
  * code inspired and modified from defcon25,MSDocs,StackOverflow
@@ -86,6 +87,9 @@ int main(int argc, char *argv[]){
 }
 ```
 
+
+
+
 ### Internal Links
 - 
 - 
@@ -97,6 +101,8 @@ int main(int argc, char *argv[]){
 - 
 - 
 - 
+
+
 
 
 
