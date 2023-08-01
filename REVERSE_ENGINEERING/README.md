@@ -11,19 +11,9 @@
 - https://kernelmode.info/forum/
 - https://godbolt.org 
 - https://reverseengineering.stackexchange.com
-- https://crypto.stackexchange.com/
-- 
-- 
-- 
 
+***
 
+- https://en.kali.tools/all/?category
 - https://www.blackarch.org/disassembler.html
-- 
-- 
-- 
-- 
-- 
-- 
-
-
 
