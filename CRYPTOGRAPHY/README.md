@@ -37,3 +37,37 @@
 - https://crypto.stackexchange.com/
 - 
 
+
+
+### The 1944 Bletchley Park Cryptographic Dictionary
+- https://www.codesandciphers.org.uk/documents/cryptdict/
+- from: `https://www.codesandciphers.org.uk/index.htm`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
